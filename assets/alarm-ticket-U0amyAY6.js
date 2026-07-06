@@ -1,0 +1,1 @@
+import{E as e,H as t,b as n}from"./vue.runtime.esm-bundler-CoGLJnd5.js";var r=e({name:`alarm-ticket`,__name:`index`,setup(e){return(e,r)=>(t(),n(`div`,null,`工单中心`))}});export{r as default};

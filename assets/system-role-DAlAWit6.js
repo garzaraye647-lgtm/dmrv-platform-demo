@@ -1,0 +1,1 @@
+import{E as e,H as t,b as n}from"./vue.runtime.esm-bundler-CoGLJnd5.js";var r=e({name:`system-role`,__name:`index`,setup(e){return(e,r)=>(t(),n(`div`,null,`角色管理`))}});export{r as default};

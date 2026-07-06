@@ -1,0 +1,1 @@
+function e(e,t,n=`text/plain;charset=utf-8;`){let r=new Blob([t],{type:n}),i=URL.createObjectURL(r),a=document.createElement(`a`);a.href=i,a.download=e,a.click(),URL.revokeObjectURL(i)}function t(t,n){e(t,JSON.stringify(n,null,2),`application/json;charset=utf-8;`)}export{t};
