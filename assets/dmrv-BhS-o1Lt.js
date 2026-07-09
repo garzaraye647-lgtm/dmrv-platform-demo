@@ -1,1 +1,0 @@
-import{Q as e}from"./router-CHtSwxvq.js";var t=`dmrv-active-vpa`,n=e(`dmrv-store`,{state:()=>({activeVpa:localStorage.getItem(t)||`VPA1`,vpaOptions:[{label:`VPA1`,value:`VPA1`},{label:`VPA2 预留`,value:`VPA2`}]}),actions:{setActiveVpa(e){this.activeVpa=e,localStorage.setItem(t,e)}}});export{n as t};
